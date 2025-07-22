@@ -1,0 +1,28 @@
+# github.com/davecgh/go-spew v1.1.1
+## explicit
+# github.com/pkg/errors v0.8.1
+## explicit
+# github.com/rs/xid v1.2.1
+## explicit
+github.com/rs/xid
+# github.com/stretchr/testify v1.7.0
+## explicit; go 1.13
+# go.uber.org/atomic v1.3.2
+## explicit
+go.uber.org/atomic
+# go.uber.org/multierr v1.1.0
+## explicit
+go.uber.org/multierr
+# go.uber.org/zap v1.9.1
+## explicit
+go.uber.org/zap
+go.uber.org/zap/buffer
+go.uber.org/zap/internal/bufferpool
+go.uber.org/zap/internal/color
+go.uber.org/zap/internal/exit
+go.uber.org/zap/zapcore
+# google.golang.org/grpc v1.32.0
+## explicit; go 1.11
+google.golang.org/grpc/metadata
+# gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
+## explicit
