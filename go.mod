@@ -1,4 +1,4 @@
-module gitlab.gametechlabs.net/ppbet/backend-services/logger
+module github.com/dineshnatukula/logger
 
 go 1.20
 
